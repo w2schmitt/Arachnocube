@@ -18,7 +18,9 @@ Tutorial Rápido de GIT:
  * Seguir passos de instalação em http://help.github.com/set-up-git-redirect
  * Executar os comandos a seguir:
   $ git clone git://github.com/w2schmitt/Arachnocube.git
+
   $ cd Arachnocube
+  
   $ git remote add origin git@github.com:w2schmitt/Arachnocube.git
  * Para atualizar para a mais nova versão:
   $ git pull
