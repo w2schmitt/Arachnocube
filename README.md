@@ -16,6 +16,14 @@ Mais info em: http://docs.unity3d.com/Documentation/Manual/ExternalVersionContro
 <b>Documentação:</b>
   - Diagrama de Classes: http://www.lucidchart.com/invitations/accept/5042f211-74f0-40e9-8b8f-34e80ad3924f 
   - Tarefas no Asana: https://app.asana.com/0/1557233908885/1557233908885
+<br>
+
+<b>Programação na Unity:</b>
+  - Documentação Unity Classes: http://docs.unity3d.com/Documentation/ScriptReference/Transform.html
+  - Scripting Overview: http://docs.unity3d.com/Documentation/ScriptReference/index.html
+  - Which Kind Of Array Should I Use?: http://wiki.unity3d.com/index.php?title=Which_Kind_Of_Array_Or_Collection_Should_I_Use%3F
+  - 10 Things to Know Programming Unity3D: http://abitgames.com/2011/blog/10-things-to-know-programming-unity3d-games/
+  
 
 <br>
 <b>Tutorial Rápido de GIT (irrelevante se for utilizar o gerenciador gráfico do github):</b>
